@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://training-wheels-qaninja.herokuapp.com"
+  "baseUrl": "https://training-wheels-qaninja.herokuapp.com",
+  "electronWebSecurity": false
 }
